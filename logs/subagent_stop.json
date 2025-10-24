@@ -1,0 +1,50 @@
+[
+  {
+    "session_id": "e0e8f604-f94c-4000-b81e-a4f8f39b1f99",
+    "transcript_path": "/Users/jbwashington/.claude/projects/-Users-jbwashington-Developer-client-cityofperla/e0e8f604-f94c-4000-b81e-a4f8f39b1f99.jsonl",
+    "cwd": "/Users/jbwashington/Developer/client/cityofperla/perla-landing",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "e0e8f604-f94c-4000-b81e-a4f8f39b1f99",
+    "transcript_path": "/Users/jbwashington/.claude/projects/-Users-jbwashington-Developer-client-cityofperla/e0e8f604-f94c-4000-b81e-a4f8f39b1f99.jsonl",
+    "cwd": "/Users/jbwashington/Developer/client/cityofperla/perla-landing",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "e0e8f604-f94c-4000-b81e-a4f8f39b1f99",
+    "transcript_path": "/Users/jbwashington/.claude/projects/-Users-jbwashington-Developer-client-cityofperla/e0e8f604-f94c-4000-b81e-a4f8f39b1f99.jsonl",
+    "cwd": "/Users/jbwashington/Developer/client/cityofperla/perla-landing",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "e0e8f604-f94c-4000-b81e-a4f8f39b1f99",
+    "transcript_path": "/Users/jbwashington/.claude/projects/-Users-jbwashington-Developer-client-cityofperla/e0e8f604-f94c-4000-b81e-a4f8f39b1f99.jsonl",
+    "cwd": "/Users/jbwashington/Developer/client/cityofperla/perla-landing",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "e0e8f604-f94c-4000-b81e-a4f8f39b1f99",
+    "transcript_path": "/Users/jbwashington/.claude/projects/-Users-jbwashington-Developer-client-cityofperla/e0e8f604-f94c-4000-b81e-a4f8f39b1f99.jsonl",
+    "cwd": "/Users/jbwashington/Developer/client/cityofperla/perla-landing",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  },
+  {
+    "session_id": "e0e8f604-f94c-4000-b81e-a4f8f39b1f99",
+    "transcript_path": "/Users/jbwashington/.claude/projects/-Users-jbwashington-Developer-client-cityofperla/e0e8f604-f94c-4000-b81e-a4f8f39b1f99.jsonl",
+    "cwd": "/Users/jbwashington/Developer/client/cityofperla/perla-landing",
+    "permission_mode": "bypassPermissions",
+    "hook_event_name": "SubagentStop",
+    "stop_hook_active": false
+  }
+]
